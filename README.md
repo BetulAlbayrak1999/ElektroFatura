@@ -1,4 +1,4 @@
 # ElektroFatura
-uygulamamiz, elektrik faturasi hesaplamak icin gerceklestirdek. uygulamada bir gundeki zaman 3'e bolduk.
-sabah, puan ve gecedir cunku elektrik faturasi hesaplanirken kullanim zamanina gore farkli oluyor  ve ona gore gerekli hesaplamalari yaptik.
-basit bir uygulamaydi..
+Kotlin dili kullanarak Android Studio ile ElektroFatura diye bir uygulama yaptık,
+Uygulamamız kullancıdan cihazın bir saatte kaç Kw kullandığını hakkında bilgi alıp 
+her bir saat faturası ne kadar olacağını üç zamanlı olarak (sabah, puant, gece)hesaplıyor.
